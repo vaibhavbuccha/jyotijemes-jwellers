@@ -1,2 +1,2 @@
 # jyotijemes-jwellers
-this is the website project of jyoti jemes and jwellers . 
+This is the website project of jyoti jemes and jwellers. 
